@@ -37,15 +37,15 @@ function App() {
 
         <p className="explanatory-text"> This brand new phone will significantly improve your day-to-day life, even though there is absolutely nothing new about this phone other than a glaring lack of several core components. A large 2.26" camera unit can take photos in a mind-shattering 360p, better than any other cell phone on the market. On top of that, the removal of the screen enables you to return to smartphone's roots, back when no one cared about bevel sizes and OLED vs. LCD.</p>
 
-        <p className="explanatory-text">Don't even bother looking at what our competitors have to offer. They're so busy running pedestrians over with their Vauxhalls and Chevys that they don't have the time to come up with anything original. And anyway, no real smartphone user would use anything other than an iPhone.</p>
+        <p className="explanatory-text">Don't even bother looking at what our competitors have to offer. They're so busy running pedestrians over with their Vauxhalls and Chevys that they don't have the time to come up with anything original. And anyway, no real smartphone user would use anything other than an iSmart.</p>
 
-        <p className='explanatory-text'>Hitler didn't have an iPhone. You know what happened to him.</p>
+        <p className='explanatory-text'>Hitler didn't have an iSmart. You know what happened to him.</p>
 
         <button style={{color: "black", backgroundColor: "white", borderRadius: "500px", width: "500px", fontSize: "24px", margin: '5px'}}>Learn more</button>
         <button style={{color: "black", backgroundColor: "white", borderRadius: "500px", width: "500px", fontSize: "24px", margin: '5px'}}>Buy now<span style={{ fontSize: '8px'}}><sup>*</sup></span></button>
         <button style={{color: "white", backgroundColor: "black", borderRadius: "500px", width: "500px", fontSize: "24px", margin: '5px'}}>No thanks, I can't handle it</button>
 
-        <p style={{fontSize: '8px'}}>* $1499 without shipping, tax, and 20% gratuity. By buying the iPhone 18, you agree to Apple's terms and conditions which include selling all personal information to the highest bidder. You also agree to receiving emails from us regarding service updates and promotiones with no way to unsubscribe.</p>
+        <p style={{fontSize: '8px'}}>* $1499 without shipping, tax, and 20% gratuity. By buying the iSmart 18, you agree to Apple's terms and conditions which include selling all personal information to the highest bidder. You also agree to receiving emails from us regarding service updates and promotiones with no way to unsubscribe.</p>
       </div>
     </>
   )
