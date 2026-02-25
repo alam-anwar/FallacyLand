@@ -32,8 +32,8 @@ function App() {
         </div>
       </div>
       <div style={{textAlign: 'center', width: '50%', margin: "0 auto"}}>
-        <h1>The iPhone 18. Better in every single way.</h1>
-        <p className='explanatory-text'>At Apple, we're committed to efficiency and minimalism in everything we do. Which is why we cut out one of the biggest distractions on our earlier models: <strong>the screen.</strong></p>
+        <h1>The iSmart 18. Better in every single way.</h1>
+        <p className='explanatory-text'>At Bapple, we're committed to efficiency and minimalism in everything we do. Which is why we cut out one of the biggest distractions on our earlier models: <strong>the screen.</strong></p>
 
         <p className="explanatory-text"> This brand new phone will significantly improve your day-to-day life, even though there is absolutely nothing new about this phone other than a glaring lack of several core components. A large 2.26" camera unit can take photos in a mind-shattering 360p, better than any other cell phone on the market. On top of that, the removal of the screen enables you to return to smartphone's roots, back when no one cared about bevel sizes and OLED vs. LCD.</p>
 
@@ -43,6 +43,7 @@ function App() {
 
         <button style={{color: "black", backgroundColor: "white", borderRadius: "500px", width: "500px", fontSize: "24px", margin: '5px'}}>Learn more</button>
         <button style={{color: "black", backgroundColor: "white", borderRadius: "500px", width: "500px", fontSize: "24px", margin: '5px'}}>Buy now<span style={{ fontSize: '8px'}}><sup>*</sup></span></button>
+        <button style={{color: "white", backgroundColor: "black", borderRadius: "500px", width: "500px", fontSize: "24px", margin: '5px'}}>No thanks, I can't handle it</button>
 
         <p style={{fontSize: '8px'}}>* $1499 without shipping, tax, and 20% gratuity. By buying the iPhone 18, you agree to Apple's terms and conditions which include selling all personal information to the highest bidder. You also agree to receiving emails from us regarding service updates and promotiones with no way to unsubscribe.</p>
       </div>
