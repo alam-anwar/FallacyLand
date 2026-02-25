@@ -26,7 +26,7 @@ function App() {
     <>
       <div id="main-text">
         <video style={{top: 0, left: 0 }} width={window.innerWidth} autoPlay muted loop>
-          <source src="/i18Backdrop.mp4" type="video/mp4" />
+          <source src="./i18Backdrop.mp4" type="video/mp4" />
         </video>
         <div style={{ display: "block", position: "absolute", left: "30px", width: "30%", height: "100%", top: 0, fontSize: "30px"}}>
           <h1 style={{ fontWeight: "normal", padding: 0, margin: 0}}>{celebrities.at(randInt(0, celebrities.length - 1))}'s phone doesn't have a screen.</h1>
