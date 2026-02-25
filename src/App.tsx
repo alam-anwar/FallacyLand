@@ -13,11 +13,9 @@ const celebrities = [
   "Ryan Gosling", 
   "Matpat", 
   "Kasane Teto", 
-  "Chikawa", 
-  "Mr. Karlson", 
+  "Chikawa",
   "Tuxedo Sam", 
   "Hachiwara",
-  "Professor O'Connor",
   "Billie Eilish"
 ]
 
